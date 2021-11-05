@@ -1,0 +1,10 @@
+/apsys.training.bookstore/bin
+/apsys.training.bookstore/obj
+/apsys.training.bookstore.migrations/bin
+/apsys.training.bookstore.migrations/obj
+/apsys.training.bookstore.repositores/bin
+/apsys.training.bookstore.repositores/obj
+/apsys.training.bookstore.repositories.nhibernate/bin
+/apsys.training.bookstore.repositories.nhibernate/obj
+/apsys.training.bookstore.repositories.testing/bin
+/apsys.training.bookstore.repositories.testing/obj
